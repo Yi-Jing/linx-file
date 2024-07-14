@@ -3,14 +3,10 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-# background: images/02.jpg
+background: https://cdn.jsdelivr.net/gh/slidevjs/slidev-covers@main/static/6terqWC_KCk.webp
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+title: Linx 導覽
+info: Linx 行銷自動化系統導覽
 # apply unocss classes to the current slide
 class: text-center
 # https://sli.dev/custom/highlighters.html
@@ -24,17 +20,15 @@ transition: slide-left
 mdc: true
 ---
 
-# 第一頁
-
-aa
-
----
-transition: fade-out
----
-
-# 第二頁
-123
+<div class="flex flex-col justify-center items-center w-full relative">
+  <img class="w-[180px] mb-4" src="images/logo.svg"/>
+  <h1>行銷自動化系統</h1>
+</div>
 
 ---
+src: pages/introduction.md
+---
 
-# 第三頁
+---
+src: pages/material.md
+---
