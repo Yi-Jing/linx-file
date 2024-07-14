@@ -30,5 +30,16 @@ src: pages/introduction.md
 ---
 
 ---
+transition: fade-out
 src: pages/material.md
+---
+
+---
+transition: fade-out
+src: pages/segment.md
+---
+
+---
+transition: fade-out
+src: pages/story.md
 ---
