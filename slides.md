@@ -49,6 +49,25 @@ transition: fade-out
 src: pages/account.md
 ---
 
+---
+transition: fade-out
+src: pages/about.md
+---
+
+---
+layout: center
+class: text-center
+---
+
+<div>
+  <div class="w-full h-full absolute bg-[#000000e8] top-0 left-0">
+    <div class="flex flex-col items-center justify-center h-full text-center">
+      <img class="w-[180px] mb-4" src="images/logo.svg"/>
+      <h1 style="color: white">讓系統為您發送行銷廣告</h1>
+    </div>  
+  </div>
+</div>
+
 <style>
 @import "./styles.css";
 </style>
