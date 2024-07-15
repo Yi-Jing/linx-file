@@ -20,7 +20,3 @@ transition: fade-out
 </div>
 
 <span v-click="1" v-mark.underline.orange="1" class="absolute top-106 left-26">針對特定會員等級的顧客自動發送 LINE OA 廣告，並在下個月檢核該會員有沒有點擊廣告</span>
-
----
-transition: fade-out
----

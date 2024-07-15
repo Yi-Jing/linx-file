@@ -44,6 +44,11 @@ transition: fade-out
 src: pages/story.md
 ---
 
+---
+transition: fade-out
+src: pages/account.md
+---
+
 <style>
 @import "./styles.css";
 </style>
