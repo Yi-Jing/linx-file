@@ -37,13 +37,6 @@ transition: fade-out
 
 <div class="flex justify-center items-center relative">
   <img class="w-full" src="images/material/02.png">
-</div>
-
----
-transition: fade-out
----
-
-<div class="flex justify-center items-center relative">
-  <img v-mark.circle.orange="1" class="w-full" src="images/material/03.png">
+  <arrow v-click="1" x1="380" y1="290" x2="450" y2="290" color="#953" width="2" arrowSize="1" />
 </div>
 
