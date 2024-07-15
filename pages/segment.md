@@ -7,7 +7,7 @@ transition: fade-out
 ---
 
 <div class="flex justify-center items-center relative">
-  <img class="w-full" src="images/segment/01.png">
+  <img class="w-full" src="/images/segment/01.png">
   <Mark type="circle" :at="1" width="80" height="40" top="48" right="20" />
 </div>
 
@@ -16,7 +16,7 @@ transition: fade-out
 ---
 
 <div class="flex justify-center items-center relative">
-  <img class="w-full" src="images/segment/02.png">
+  <img class="w-full" src="/images/segment/02.png">
 </div>
 
 <Mark type="circle" :at="1" width="80" height="40" top="245" left="470" />

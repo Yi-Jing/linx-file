@@ -25,7 +25,7 @@ mdc: true
 ---
 
 <div class="flex flex-col justify-center items-center w-full relative">
-  <img class="w-[180px] mb-4" src="images/logo.svg"/>
+  <img class="w-[180px] mb-4" src="/images/logo.svg"/>
   <h1>行銷自動化系統</h1>
 </div>
 
@@ -66,7 +66,7 @@ class: text-center
 <div>
   <div class="w-full h-full absolute bg-[#000000e8] top-0 left-0">
     <div class="flex flex-col items-center justify-center h-full text-center">
-      <img class="w-[180px] mb-4" src="images/logo.svg"/>
+      <img class="w-[180px] mb-4" src="/images/logo.svg"/>
       <h1 style="color: white">讓系統為您發送行銷廣告</h1>
     </div>  
   </div>
