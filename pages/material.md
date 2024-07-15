@@ -1,10 +1,6 @@
 <div class="flex flex-col justify-center items-center w-full h-full relative">
-  <h1>行銷廣告要怎麼進行撰寫？</h1>
+  <h1 class="title">行銷廣告要怎麼進行撰寫？</h1>
 </div>
-
-<style>
-@import "./styles.css";
-</style>
 
 ---
 transition: fade-out

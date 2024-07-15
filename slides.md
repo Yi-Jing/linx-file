@@ -43,3 +43,7 @@ src: pages/segment.md
 transition: fade-out
 src: pages/story.md
 ---
+
+<style>
+@import "./styles.css";
+</style>
