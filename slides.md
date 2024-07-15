@@ -17,6 +17,10 @@ drawings:
 # slide transition: https://sli.dev/guide/animations#slide-transitions
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/guide/syntax#mdc-syntax
+fonts:
+  sans: Robot
+  serif: Robot Slab
+  mono: Fira Code
 mdc: true
 ---
 
