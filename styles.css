@@ -7,3 +7,9 @@
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
 }
+
+.list {
+  list-style: none;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
